@@ -14,11 +14,11 @@
 
 ![captura3](capturas/punto1_PC2.png)
 
-![captura4](Capturas/punto1_PC3.png)
+![captura4](capturas/punto1_PC3.png)
 
 ![captura5](capturas/punto1_PC4.png)
 
-![captura6](Capturas/punto1_PC5.png)
+![captura6](capturas/punto1_PC5.png)
 
 ---
 
