@@ -16,7 +16,7 @@ entregas_individuales/
 │   ├── punto5_multiples_lenguajes.md
 │   ├── punto6_mismo_codigo.md
 │   └── capturas/
-├── DEF/                    # Iniciales del Alumno 2
+├── GBM/                    # Iniciales del Alumno 2
 │   ├── punto1_instalacion.md
 │   ├── punto2_modulos.md
 │   ├── punto3_personalizacion.md

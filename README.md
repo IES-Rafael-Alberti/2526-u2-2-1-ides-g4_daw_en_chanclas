@@ -8,13 +8,13 @@
 
 ## 👥 Componentes del Grupo
 
-| Nombre y Apellidos | Correo Electrónico | Iniciales |
-|-------------------|-------------------|-----------|
-| [Dayron Torres Yegua] | [dtoryeg519@g.educaand.es] | [DTY] |
-| [Nombre Alumno 2] | [email@g.educaand.es] | [XXX] |
-| [Nombre Alumno 3] | [email@g.educaand.es] | [XXX] |
-| [Nombre Alumno 4] | [email@g.educaand.es] | [XXX] |
-| [Nombre Alumno 5] | [email@g.educaand.es] | [XXX] |
+| Nombre y Apellidos        | Correo Electrónico         | Iniciales |
+|---------------------------|----------------------------|-----------|
+| [Dayron Torres Yegua]     | [dtoryeg519@g.educaand.es] | [DTY]     |
+| [Gonzalo Blanco Mosteiro] | [gblamos249@g.educaand.es] | [GBM]     |
+| [Nombre Alumno 3]         | [email@g.educaand.es]      | [XXX]     |
+| [Nombre Alumno 4]         | [email@g.educaand.es]      | [XXX]     |
+| [Nombre Alumno 5]         | [email@g.educaand.es]      | [XXX]     |
 
 ---
 
