@@ -10,7 +10,7 @@
 
 | Nombre y Apellidos | Correo Electrónico | Iniciales |
 |-------------------|-------------------|-----------|
-| [Nombre Alumno 1] | [email@g.educaand.es] | [XXX] |
+| [Dayron Torres Yegua] | [dtoryeg519@g.educaand.es] | [DTY] |
 | [Nombre Alumno 2] | [email@g.educaand.es] | [XXX] |
 | [Nombre Alumno 3] | [email@g.educaand.es] | [XXX] |
 | [Nombre Alumno 4] | [email@g.educaand.es] | [XXX] |
