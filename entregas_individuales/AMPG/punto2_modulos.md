@@ -18,5 +18,5 @@ En cada IDE he instalado extensiones o módulos para ampliar la funcionalidad de
 - **Visual Studio Code:** Las extensiones permiten agregar análisis de código, autocompletado inteligente, depuración, integración con control de versiones y ejecución de scripts. El ecosistema es muy amplio, por lo que se puede adaptar el entorno fácilmente a cualquier necesidad específica del proyecto.
 
 ## Evidencias
-![Captura 1](capturas/punto2_captura_1.png)
-![Captura 2](capturas/punto2_captura_2.png)
+![Captura 1](capturas/punto_2_captura_1.png)
+![Captura 2](capturas/punto_2_captura_2.png)
