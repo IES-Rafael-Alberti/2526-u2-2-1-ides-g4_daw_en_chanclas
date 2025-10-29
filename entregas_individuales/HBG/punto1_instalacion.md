@@ -5,12 +5,12 @@
 ### Visual Studio Code
 - Entorno libre
 
-![captura1](Capturas/punto1_VSC.png)
+![captura1](capturas/punto1_VSC.png)
 
 ### Pycharm
 - Entorno propietario
 
-![captura2](Capturas/punto1_PC1.png)
+![captura2](capturas/punto1_PC1.png)
 
 ![captura3](capturas/punto1_PC2.png)
 
