@@ -7,6 +7,8 @@
 - Pylance (Autocompleta)
 - Rainbow Brackets (Colorea corchetes para identificar más fácil)
 - GitHub Copilot (IA) *(deshabilitada)*
+![Captura 7](Capturas/punto2_VSC.png)
+![Captura 8](Capturas/punto2_PC.png)
 
 #### Pycharm
 - Rainbow Brackets (mismo que VS Code)

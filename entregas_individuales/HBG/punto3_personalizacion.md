@@ -11,5 +11,6 @@
 
 - Instalé herramientas de automatización como ESLint y Pylint que se ejecutan automáticamente cada vez que guardo un archivo. Esto ayuda a mantener un código limpio y bien estructurado sin perder tiempo corrigiendo estilo manualmente.
 - Se trabaja más rápido, aumenta la productividad y mejora la organización.
-
+![Captura 9](Capturas/punto3_VSC.png)
+![Captura 10](Capturas/punto3_PC.png)
 ---
