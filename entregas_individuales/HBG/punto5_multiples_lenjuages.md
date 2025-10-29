@@ -4,7 +4,9 @@
 
 - Abrimos VS Code y creamos el programa, en mi caso `cuenta_atras.py`. Luego escribo el código en Python, asegurándome de haber descargado el intérprete de Python. Usando la terminal de VS Code lo ejecutamos.
 
-![Captura 13](Capturas/punto5_VSC.png)
+
+![captura13](capturas/punto5_VSC.png)
+
 ### ¿Qué diferencias encontraste en la generación del ejecutable entre los dos lenguajes?
 
 - No he sabido instalar Kotlin y no he podido usarlo (culpa mía).
