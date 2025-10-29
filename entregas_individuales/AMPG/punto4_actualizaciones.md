@@ -22,5 +22,5 @@ Mantener el IDE actualizado es fundamental para:
 Un IDE actualizado asegura un flujo de trabajo eficiente y seguro, evitando problemas que puedan retrasar o dificultar el desarrollo de proyectos.
 
 ## Evidencias
-![Captura 1](capturas/punto4_captura_1.png)
-![Captura 2](capturas/punto4_captura_2.png)
+![Captura 1](capturas/punto_4_captura_1.png)
+![Captura 2](capturas/punto_4_captura_2.png)
