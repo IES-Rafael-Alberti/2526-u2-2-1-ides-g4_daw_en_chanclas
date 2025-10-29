@@ -13,7 +13,7 @@
 | [Dayron Torres Yegua]        | [dtoryeg519@g.educaand.es]  | [DTY]     |
 | [Antonio Manuel Pérez Gómez] | [apergom459w@g.educaand.es] | [AMPG]    |
 | [Gonzalo Blanco Mosteiro]    | [gblamos249@g.educaand.es]  | [GBM]     |
-| [Nombre Alumno 4]            | [email@g.educaand.es]       | [XXX]     |
+| [Hugo Benítez García]        | [hbengar0801@g.educaand.es] | [HBG]     |
 | [Nombre Alumno 5]            | [email@g.educaand.es]       | [XXX]     |
 
 ---
