@@ -11,7 +11,7 @@
 | Nombre y Apellidos | Correo Electrónico | Iniciales |
 |-------------------|-------------------|-----------|
 | [Dayron Torres Yegua] | [dtoryeg519@g.educaand.es] | [DTY] |
-| [Nombre Alumno 2] | [email@g.educaand.es] | [XXX] |
+| [Antonio Manuel Pérez Gómez] | [apergom459w@g.educaand.es] | [AMPG] |
 | [Nombre Alumno 3] | [email@g.educaand.es] | [XXX] |
 | [Nombre Alumno 4] | [email@g.educaand.es] | [XXX] |
 | [Nombre Alumno 5] | [email@g.educaand.es] | [XXX] |
