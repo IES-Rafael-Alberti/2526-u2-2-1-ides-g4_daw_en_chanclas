@@ -17,5 +17,5 @@ Escribí un programa en Python que cuenta de 10 a 0 y luego imprime “¡Despegu
 Visual Studio Code me resultó más cómodo y eficiente por su facilidad de ejecución directa, integración inmediata con entornos virtuales y la terminal integrada. No requiere configuración adicional y la experiencia es más intuitiva, especialmente para tareas rápidas y pruebas de código, aunque LiClipse ofrece más herramientas específicas para depuración y desarrollo avanzado si la configuración está bien realizada.
 
 ## Evidencias
-![Captura 1](capturas/punto6_captura1.png)
-![Captura 2](capturas/punto6_captura2.png)
+![Captura 1](capturas/punto6_captura_1.png)
+![Captura 2](capturas/punto6_captura_2.png)

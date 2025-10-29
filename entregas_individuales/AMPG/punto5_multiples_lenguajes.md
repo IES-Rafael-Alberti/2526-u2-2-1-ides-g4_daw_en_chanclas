@@ -23,5 +23,5 @@ Ambos procesos se manejan fácilmente desde la barra lateral y la terminal integ
 La principal diferencia es que en Python basta con guardar y ejecutar, mientras que en Java hay que compilar primero y luego ejecutar, lo que implica un paso extra en el flujo de trabajo.
 
 ## Evidencias
-![Captura 1](capturas/punto5_captura1.png)
-![Captura 2](capturas/punto5_captura2.png)
+![Captura 1](capturas/punto5_captura_1.png)
+![Captura 2](capturas/punto5_captura_2.png)

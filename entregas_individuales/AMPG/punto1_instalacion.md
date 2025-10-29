@@ -19,5 +19,5 @@ Por el contrario, **Visual Studio Code** como IDE propietario puede requerir ace
 - **Visual Studio Code:** Su ventaja principal radica en la velocidad y simplicidad del proceso, además de la integración inmediata con herramientas populares como Git y variedad de extensiones. La experiencia de instalación es moderna y optimizada.
 
 ## Evidencias
-![Captura 1](capturas/punto_1_captura1.png)
-![Captura 2](capturas/punto_1_captura2.png)
+![Captura 1](capturas/punto_1_captura_1.png)
+![Captura 2](capturas/punto_1_captura_2.png)

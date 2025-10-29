@@ -18,7 +18,7 @@ He personalizado el entorno de trabajo de cada IDE modificando el tema visual y 
 - **Visual Studio Code:** Instalé la extensión “Code Runner” para automatizar la ejecución de código y configuré tareas en el archivo `tasks.json` para compilar y ejecutar scripts automáticamente. Esto facilitó la ejecución de pruebas frecuentes y minimizó los errores manuales, aumentando la productividad.
 
 ## Evidencias
-![Captura 1](capturas/punto3_captura1.png)
-![Captura 2](capturas/punto3_captura2.png)
-![Captura 3](capturas/punto3_captura3.png)
-![Captura 4](capturas/punto3_captura4.png)
+![Captura 1](capturas/punto3_captura_1.png)
+![Captura 2](capturas/punto3_captura_2.png)
+![Captura 3](capturas/punto3_captura_3.png)
+![Captura 4](capturas/punto3_captura_4.png)
