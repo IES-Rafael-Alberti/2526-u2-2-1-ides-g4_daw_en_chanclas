@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Eil8wls0)
 # Entornos de desarrollo. Unidad 2
 ## Práctica 2: Evaluación de IDEs
 
@@ -7,13 +8,13 @@
 
 ## 👥 Componentes del Grupo
 
-| Nombre y Apellidos | Correo Electrónico | Iniciales |
-|-------------------|-------------------|-----------|
-| [Nombre Alumno 1] | [email@g.educaand.es] | [XXX] |
-| [Nombre Alumno 2] | [email@g.educaand.es] | [XXX] |
-| [Nombre Alumno 3] | [email@g.educaand.es] | [XXX] |
-| [Nombre Alumno 4] | [email@g.educaand.es] | [XXX] |
-| [Nombre Alumno 5] | [email@g.educaand.es] | [XXX] |
+| Nombre y Apellidos           | Correo Electrónico          | Iniciales |
+|------------------------------|-----------------------------|-----------|
+| [Dayron Torres Yegua]        | [dtoryeg519@g.educaand.es]  | [DTY]     |
+| [Antonio Manuel Pérez Gómez] | [apergom459w@g.educaand.es] | [AMPG]    |
+| [Gonzalo Blanco Mosteiro]    | [gblamos249@g.educaand.es]  | [GBM]     |
+| [Hugo Benítez García]        | [hbengar0801@g.educaand.es] | [HBG]     |
+| [Nombre Alumno 5]            | [email@g.educaand.es]       | [XXX]     |
 
 ---
 
