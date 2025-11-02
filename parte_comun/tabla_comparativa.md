@@ -10,31 +10,31 @@
 5. [IDE del Alumno 3 - IDE 1] VSC
 6. [IDE del Alumno 3 - IDE 2] PyCharm
 7. [IDE del Alumno 4 - IDE 1] VSC
-8. [IDE del Alumno 4 - IDE 2] CLion
+8. [IDE del Alumno 4 - IDE 2] LiClipse
 
 ---
 
-## Tabla Comparativa
+## Tabla Comparativa Concisa
 
-| Característica | **VSC** | **IntelliJ IDEA** | **Fleet** | **PyCharm** | **CLion** |
-|----------------|----------|-------------------|------------|--------------|-----------|
-| **Lenguajes soportados** | ✅ (mediante extensiones) | ✅ | ✅ | ⚠️ (principalmente Python) | ⚠️ (C/C++ y algo más) |
-| **Velocidad de carga** | ✅ Muy rápida | ⚠️ Media | ✅ Rápida | ⚠️ Media | ⚠️ Media |
-| **Soporte para extensiones/plugins** | ✅ Extenso (Marketplace) | ✅ JetBrains Marketplace | ⚠️ En desarrollo | ✅ JetBrains Marketplace | ✅ JetBrains Marketplace |
-| **Depurador** | ⚠️ Depende de extensiones | ✅ Integrado y avanzado | ⚠️ Básico | ✅ Integrado y especializado | ✅ Avanzado |
-| **Refactorización** | ⚠️ Limitada | ✅ Muy completa | ⚠️ Limitada | ✅ Muy completa | ✅ Muy completa |
-| **Autocompletado de código** | ✅ Excelente con extensiones | ✅ Inteligente (AI) | ✅ Moderno | ✅ Preciso | ✅ Preciso |
-| **Control de versiones (Git)** | ✅ Integrado | ✅ Integrado | ✅ Integrado | ✅ Integrado | ✅ Integrado |
-| **Automatización de tareas** | ⚠️ Mediante tareas/scripts | ✅ Integrada con Gradle/Maven | ⚠️ Limitada | ✅ Testing/automatización integrada | ✅ CMake/Gradle integrado |
-| **Soporte para múltiples lenguajes** | ✅ Amplio (extensiones) | ✅ Multilenguaje real | ✅ En crecimiento | ⚠️ Limitado | ⚠️ Limitado |
-| **Personalización del entorno** | ✅ Muy alta | ⚠️ Media | ⚠️ Limitada | ⚠️ Limitada | ⚠️ Limitada |
-| **Integración con bases de datos** | 🔌 Con extensiones | ✅ Integrada | ⚠️ Parcial | ✅ Integrada | ⚠️ Limitada |
-| **Pruebas automatizadas** | ⚠️ Con extensiones | ✅ Integradas | ⚠️ Básicas | ✅ Muy buenas | ✅ Unit testing avanzado |
-| **Soporte para frameworks** | ✅ Vía extensiones (React, Django, etc.) | ✅ Integrado | ⚠️ Limitado | ✅ Django, Flask, etc. | ⚠️ CMake/C++ |
-| **Configuración de entornos virtuales** | ⚠️ Manual | ✅ Integrado | ⚠️ Parcial | ✅ Automática | ❌ No aplicable |
-| **Herramientas de análisis de código** | ⚠️ Con extensiones | ✅ Avanzadas | ⚠️ En desarrollo | ✅ Avanzadas | ✅ Avanzadas |
-| **Soporte para compilación/Maven/Gradle** | ⚠️ Manual o por extensión | ✅ Nativo | ⚠️ Limitado | ⚠️ Limitado | ✅ CMake nativo |
-| **Precio/licencia** | 💰 Gratuito | 💰 Versión Community y Pro de pago | 💰 Gratuito (previo acceso) | 💰 Community gratis / Pro de pago | 💰 De pago (JetBrains) |
+| Característica | **VSC** | **IntelliJ IDEA** | **Fleet** | **PyCharm** | **LiClipse** |
+|----------------|:----------:|:-------------------:|:------------:|:--------------:|:--------------:|
+| **Lenguajes soportados** | Amplio, vía extensiones | Soporte completo nativo | Amplio, multi-lenguaje | Especializado en Python | Múltiples lenguajes integrados |
+| **Velocidad de carga** | Extremadamente rápido | Carga de velocidad media | Interfaz rápida y ligera | Carga de velocidad media | Rápida, base Eclipse |
+| **Soporte para extensiones/plugins** | Ecosistema más grande | Marketplace JetBrains extenso | Marketplace en desarrollo | Extenso de JetBrains | Amplio ecosistema Eclipse |
+| **Depurador** | Vía extensiones requeridas | Nativo, avanzado y potente | Depuración básica integrada | Nativo, especializado en Python | Integrado vía PyDev |
+| **Refactorización** | Funciones muy limitadas | Funciones automáticas completas | Refactorización muy limitada | Funciones automáticas completas | Funciones limitadas/plugins |
+| **Autocompletado de código** | Excelente vía extensiones | Inteligente, asistido por IA | Autocompletado rápido, moderno | Preciso, centrado en Python | Autocompletado sólido y rápido |
+| **Control de versiones (Git)** | Integración nativa completa | Integración nativa completa | Integración nativa completa | Integración nativa completa | Integrado vía EGit |
+| **Automatización de tareas** | Vía tareas/scripts manuales | Nativa con Maven/Gradle | Automatización muy limitada | Integrada para testing/scripts | Depende de base Eclipse |
+| **Soporte para múltiples lenguajes** | Amplio vía configuración | Verdadero entorno multi-lenguaje | Soporte activo creciente | Especializado en un lenguaje | Multilenguaje inmediato y rápido |
+| **Personalización del entorno** | Personalización estética muy alta | Personalización limitada a media | Personalización estética básica | Personalización limitada/media | Alta personalización Eclipse |
+| **Integración con bases de datos** | Vía extensiones (plugins) | Herramienta de base integrada | Integración parcial en desarrollo | Herramienta de base integrada | Vía plugins de Eclipse |
+| **Pruebas automatizadas** | Vía extensiones (plugins) | Soporte de testing nativo | Funciones básicas en desarrollo | *Unit testing* automático, completo | Depende de plugins adicionales |
+| **Soporte para frameworks** | Vía extensiones (plugins) | Nativo y preconfigurado | Soporte muy limitado | Nativo para Django/Flask | Vía PyDev u otros |
+| **Configuración de entornos virtuales** | Proceso manual requerido | Configuración automática integrada | Parcialmente soportado | Creación de entornos automática | Vía PyDev plugin |
+| **Herramientas de análisis de código** | Vía extensiones (plugins) | Análisis de código avanzado | Análisis básico en desarrollo | Inspección de código avanzada | Depende de plugins |
+| **Soporte para compilación/Maven/Gradle** | Soporte manual/extensión | Integración nativa completa | Soporte limitado | Soporte limitado | Vía plugins Eclipse |
+| **Precio/licencia** | Completamente gratuito | Versiones Community y Pro | Gratuito, acceso limitado | Versiones Community y Pro | Licencia de pago anual |
 
 ---
 
@@ -50,29 +50,22 @@ El más **completo y profesional** del grupo. Su integración con Maven, Gradle 
 La nueva apuesta de JetBrains. Combina ligereza con colaboración en tiempo real. Su interfaz moderna y simple es atractiva, pero **todavía le faltan funciones avanzadas** que sí tienen IntelliJ o PyCharm.
 
 ### PyCharm
-Especializado en **Python**, con soporte completo para entornos virtuales, testing y frameworks como Django o Flask. Es el **más recomendable para proyectos de Data Science o IA**, aunque no tan flexible para otros lenguajes.
+Especializado en **Python**, con soporte completo para entornos virtuales, *testing* y *frameworks* como Django o Flask. Es el **más recomendable para proyectos de Data Science o IA**, aunque no tan flexible para otros lenguajes.
 
-### CLion
-IDE potente para **C y C++**, con excelente depuración y análisis estático. Sin embargo, no es tan útil fuera de ese entorno. Ideal para desarrolladores que trabajan con proyectos de bajo nivel o en sistemas embebidos.
+### LiClipse
+Basado en Eclipse, es un **editor de código multilenguaje** que proporciona resaltado de sintaxis, depuración y autocompletado para muchos lenguajes de forma nativa (incluyendo C/C++, Python, JS, etc.). Es más ligero que el Eclipse completo, pero su **licencia es de pago** y las funciones avanzadas de refactorización y análisis profundo dependen del buen funcionamiento de sus *plugins* (como PyDev). Es una opción robusta para quienes buscan las funcionalidades de Eclipse sin la sobrecarga del IDE completo.
 
 ---
 
 ## Conclusiones de la comparación
 En general, todos los IDEs ofrecen un entorno profesional, pero cada uno destaca en ámbitos distintos:
 
-- **Visual Studio Code** es el más versátil y accesible.
+- **Visual Studio Code** es el más versátil, ligero y accesible.
 - **IntelliJ IDEA** es el más completo y potente para proyectos grandes.
 - **Fleet** busca modernidad y colaboración, aunque aún está en desarrollo.
 - **PyCharm** es el mejor para Python y ciencia de datos.
-- **CLion** domina en el desarrollo de C/C++.
+- **LiClipse** es una alternativa de pago, robusta y rápida para el desarrollo multilenguaje, ideal para quienes valoran la base de Eclipse.
 
 No hay un “mejor” absoluto: la elección depende del tipo de proyecto, la experiencia del usuario y los recursos del sistema.
 
 ---
-
-## Leyenda
-- ✅ Soportado completamente
-- ⚠️ Soportado parcialmente / Limitado
-- ❌ No soportado
-- 🔌 Disponible mediante plugin/extensión
-- 💰 Indica tipo de licencia (gratuito o de pago)
